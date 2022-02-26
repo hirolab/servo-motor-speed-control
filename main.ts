@@ -6,7 +6,7 @@ namespace SetServoSpeed{
      * Address motor rotation direction and speed by acceleration
      */
     //% blockId = servoturnspeed
-    //% block="set P0 servo rotate in the direction %direction by %speed (ms) interval"
+    //% block="set P0 servo rotates in the direction %direction by %speed (ms) interval"
     //% inlineInputMode=inline
     export function SetTurnSpeed(direction: number, speed: number): void{
         if (Math.abs(direction) >= 100) {
