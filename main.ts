@@ -3,6 +3,11 @@ let max_angle = 160
 let min_angle = 20
 
 namespace SetServoSpeed{
+    /**
+     * Address motor rotation direction and speed by acceleration
+     */
+    //% blockId = servoturnspeed
+    //% block = "set servo rotate in the direction $direction by $speed (ms) interval"
     export function SetTurnSpeed(direction: number, speed: number): void{
         if (Math.abs(direction) >= 100) {
             if (direction <= 0) {
