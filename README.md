@@ -1,21 +1,6 @@
 
 > Open this page at [https://alexwurobot.github.io/servo-motor-speed-control/](https://alexwurobot.github.io/servo-motor-speed-control/)
 
-## Usage
-
-### ``SetTurnSpeed``
-
-Use the ``SetTurnSpeed`` block to control the turn direction and speed of the servo motor
-
-```blocks
-let shoulder_pos = 0
-basic.forever(function () {
-    shoulder_pos = input.acceleration(Dimension.X)
-    SetServoSpeed.SetTurnSpeed(shoulder_pos, 100)
-})
-
-```
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
