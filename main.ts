@@ -3,7 +3,7 @@ let max_angle = 160
 let min_angle = 20
 servos.P1.setAngle(angle)
 
-namespace SetServoSpeed{
+namespace shouldermotorspeed{
     /**
      * Address motor rotation direction and speed by acceleration
      */
