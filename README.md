@@ -1,5 +1,5 @@
 
-> Open this page at [https://alexwurobot.github.io/servo-motor-speed-control/](https://alexwurobot.github.io/servo-motor-speed-control/)
+> Open this page at [https://hirolab.github.io/servo-motor-speed-control/](https://hirolab.github.io/servo-motor-speed-control/)
 ## Usage
 ### ``SetTurnSpeed``
 
@@ -21,22 +21,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/alexwurobot/servo-motor-speed-control** and import
+* search for **https://github.com/hirolab/servo-motor-speed-control** and import
 
-## Edit this project ![Build status badge](https://github.com/alexwurobot/servo-motor-speed-control/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/hirolab/servo-motor-speed-control/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/alexwurobot/servo-motor-speed-control** and click import
+* paste **https://github.com/hirolab/servo-motor-speed-control** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/alexwurobot/servo-motor-speed-control/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/hirolab/servo-motor-speed-control/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
