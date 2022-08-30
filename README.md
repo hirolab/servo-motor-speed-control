@@ -1,9 +1,9 @@
 
 > Open this page at [https://hirolab.github.io/servo-motor-speed-control/](https://hirolab.github.io/servo-motor-speed-control/)
 ## Usage
-### ``SetTurnSpeed``
+### ``shouldermotorspeed``
 
-Use the ``SetTurnSpeed`` block to control the direction and speed of the P0 servo motor.
+Use the ``shouldermotorspeed`` block to control the direction and speed of the P0 servo motor.
 
 
 
