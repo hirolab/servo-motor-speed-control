@@ -23,7 +23,7 @@ namespace SetServoSpeed{
             if (angle >= max_angle) {
                 angle = max_angle
             }
-            servos.P0.setAngle(angle)
+            servos.P1.setAngle(angle)
         }
         basic.pause(speed)
     }
