@@ -4,5 +4,5 @@ let shoulder_pos = 0
 
 basic.forever(function () {
     shoulder_pos = input.acceleration(Dimension.X)
-    SetServoSpeed.SetTurnSpeed(shoulder_pos,2)
+    shouldermotorspeed.SetTurnSpeed(shoulder_pos,2)
 })
