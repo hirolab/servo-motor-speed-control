@@ -10,7 +10,7 @@ Use the ``shouldermotorspeed`` block to control the direction and speed of the P
 
 ```blocks
 basic.forever(function () {
-    SetServoSpeed.SetTurnSpeed(input.acceleration(Dimension.X),2)
+    shouldermotorspeed.SetTurnSpeed(input.acceleration(Dimension.X),2)
 })
 ```
 
